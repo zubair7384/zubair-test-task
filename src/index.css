@@ -55,10 +55,6 @@ body {
     height: 73px;
   }
 
-  /* .conversation-card:hover {
-    background: rgba(255, 255, 255, 0.08);
-  } */
-
   .conversation-stack {
     display: flex;
     flex-direction: column;

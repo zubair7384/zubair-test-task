@@ -53,3 +53,4 @@ The app uses a custom Tailwind configuration with:
 - Custom green status indicator
 - Inter font family
 - Smooth transitions and hover effects
+# zubair-test-task

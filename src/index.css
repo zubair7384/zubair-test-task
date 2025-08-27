@@ -87,15 +87,18 @@ body {
     width: 478px;
   }
 
+  .conversation-card:nth-child(1) > .card-test {
+    padding-left: 10px;
+    position: relative;
+  }
   .conversation-card:nth-child(2) > .card-test {
     padding-left: 10px;
     position: relative;
-    left: 6px;
   }
   .conversation-card:nth-child(3) > .card-test {
     padding-left: 10px;
     position: relative;
-    left: 28px;
+    left: 20px;
   }
   .rotated-element {
     position: absolute;

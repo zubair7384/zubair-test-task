@@ -90,6 +90,7 @@ body {
   .conversation-card:nth-child(1) > .card-test {
     padding-left: 10px;
     position: relative;
+    padding-left: 12px;
   }
   .conversation-card:nth-child(2) > .card-test {
     padding-left: 10px;
